@@ -10,6 +10,16 @@
 Сайт разработан на CMS WordPress с использованием связки **LAMP** (Linux, Apache, MySQL, PHP).
 
 ---
+## 📊 Диаграммы
+
+### Диаграмма прецедентов
+![Use Case](https://github.com/kostylevakaterina72-coder/my-website-mariazet-katya/raw/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%9F%D1%80%D0%B5%D1%86%D0%B5%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.dravio.png)
+
+### Диаграмма развертывания
+![Deployment](https://github.com/kostylevakaterina72-coder/my-website-mariazet-katya/raw/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%A0%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.dravio%20(1).png)
+
+## 📄 Документация
+[Скачать ТЗ](https://github.com/kostylevakaterina72-coder/my-website-mariazet-katya/blob/main/%D0%A2%D0%97_%D0%9A%D0%BE%D1%81%D1%82%D1%8B%D0%BB%D0%B5%D0%B2%D0%B0_%D0%97%D0%BE%D0%B7%D1%83%D0%BB%D1%8F(1).docx)
 
 ## 🎯 Целевая аудитория
 
@@ -42,11 +52,6 @@
 - [x] Редактирование контента через админку WordPress
 
 ---
-## 📂 Содержимое репозитория
-
-- **[📄 Техническое задание](./ТЗ_Костылева_Зозуля(1).docx)** — полное ТЗ проекта  
-- **[📊 Диаграмма прецедентов](./Диаграмма%20Прецедентов.dravio.png)** — сценарии использования  
-- **[🖧 Диаграмма развертывания](./Диаграмма%20Развертывания.dravio%20(1).png)** — архитектура LAMP  
 
 ## 🧱 Технологический стек
 
